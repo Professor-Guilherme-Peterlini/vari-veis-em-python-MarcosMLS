@@ -1,0 +1,11 @@
+1- Explique o conceito de tipagem dinâmica em Python. Como isso difere de linguagens com tipagem estática? Quais são as vantagens e desvantagens da tipagem dinâmica?
+
+R: A tipagem dinâmica em Python oferece flexibilidade e agilidade no desenvolvimento, mas também pode trazer desafios em termos de segurança e desempenho. A escolha entre usar uma linguagem de tipagem dinâmica ou estática geralmente depende das necessidades do projeto e das preferências da equipe de desenvolvimento.
+
+2 - Descreva a diferença entre objetos mutáveis e imutáveis em Python. Dê exemplos de cada um e explique como isso afeta o comportamento das variáveis que referenciam esses objetos.
+
+R: Entender a diferença entre objetos mutáveis e imutáveis é fundamental para evitar comportamentos inesperados no seu código. Isso influencia como as variáveis se comportam e como você gerencia a memória em seus programas Python.
+
+3 - Explique o conceito de escopo de variáveis em Python. Como o Python lida com variáveis locais e globais? O que é a regra LEGB e como ela se aplica à resolução de nomes de variáveis?
+
+R: O escopo de variáveis em Python é fundamental para entender como e onde as variáveis são acessíveis e modificáveis. A regra LEGB ajuda a determinar a ordem de resolução de nomes de variáveis, o que é crucial para evitar conflitos e entender o comportamento do código.
